@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="420" viewBox="0 0 740 420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" font-size="13">
 <rect width="100%" height="100%" fill="none"/>
 <text xml:space="preserve" x="12" y="22" fill="#1793d1">                   -`</text>
 <text xml:space="preserve" x="12" y="40" fill="#1793d1">                  .o+`</text>
@@ -19,8 +19,8 @@
 <text xml:space="preserve" x="12" y="310" fill="#1793d1">  `+sso+:-`                 `.-/+oso:</text>
 <text xml:space="preserve" x="12" y="328" fill="#1793d1"> `++:.                           `-/+/</text>
 <text xml:space="preserve" x="12" y="346" fill="#1793d1"> .`                                 `/</text>
-<text x="340" y="22" fill="#1793d1" font-weight="bold">0xiKOn<tspan fill="#57606a" font-weight="normal">@</tspan>github</text>
-<text x="340" y="40" fill="#57606a">───────────────────────────────────</text>
+<text x="340" y="22" fill="#1793d1" font-weight="bold">exabsurdo<tspan fill="#57606a" font-weight="normal">@</tspan>github</text>
+<text x="340" y="40" fill="#57606a">─────────────────────────────────────────────────</text>
 <text x="340" y="58" fill="#1793d1" font-weight="bold">OS</text>
 <text x="428" y="58" fill="#24292f">Athena OS (Arch-based)</text>
 <text x="340" y="76" fill="#1793d1" font-weight="bold">Kernel</text>
@@ -36,7 +36,7 @@
 <text x="340" y="184" fill="#1793d1" font-weight="bold">Focus</text>
 <text x="428" y="184" fill="#24292f">AI red-teaming, adversarial ML</text>
 <text x="340" y="202" fill="#1793d1" font-weight="bold">Studying</text>
-<text x="428" y="202" fill="#24292f">Physics + HPS @ UofT</text>
+<text x="428" y="202" fill="#24292f">Maths + Philosophy of Science @ UofT</text>
 <text x="340" y="220" fill="#1793d1" font-weight="bold">Minor</text>
 <text x="428" y="220" fill="#24292f">Computer Science</text>
 <text x="340" y="238" fill="#1793d1" font-weight="bold">Started</text>
@@ -48,9 +48,9 @@
 <text x="340" y="310" fill="#1793d1" font-weight="bold">Interests</text>
 <text x="428" y="310" fill="#24292f">CTFs, HTB, offsec tooling</text>
 <text x="340" y="346" fill="#1793d1" font-weight="bold">Blog</text>
-<text x="428" y="346" fill="#24292f">0xikon.github.io</text>
+<text x="428" y="346" fill="#24292f">exabsurdo.github.io</text>
 <text x="340" y="364" fill="#1793d1" font-weight="bold">Notes</text>
-<text x="428" y="364" fill="#24292f">0xikon.gitbook.io</text>
+<text x="428" y="364" fill="#24292f">exabsurdo.gitbook.io</text>
 <rect x="340" y="394" width="22" height="11" fill="#24292f"/>
 <rect x="362" y="394" width="22" height="11" fill="#cf222e"/>
 <rect x="384" y="394" width="22" height="11" fill="#1a7f37"/>
